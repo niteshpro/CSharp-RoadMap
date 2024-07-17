@@ -11,7 +11,7 @@ This is my roadmap for learning C# from scratch ┗|｀O′|┛
   <li>Strings</li>
 </ul>
 <h4>Algorithms</h4>
-<li>
-  <ul>Sorting</ul>
-  <ul>Searching</ul>
-</li>
+<ul>
+  <li>Sorting</li>
+  <li>Searching</li>
+</ul>
