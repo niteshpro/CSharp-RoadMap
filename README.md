@@ -15,3 +15,12 @@ This is my roadmap for learning C# from scratch ┗|｀O′|┛
   <li>Sorting</li>
   <li>Searching</li>
 </ul>
+
+<ul>
+   <li>Design Patterns
+    <ul>
+      <li>Singleton Design Pattern</li>
+      <li>Factory Design Pattern</li>
+    </ul>
+  </li>  
+</ul>
