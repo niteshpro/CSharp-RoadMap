@@ -15,9 +15,9 @@ This is my roadmap for learning C# from scratch ┗|｀O′|┛
   <li>Sorting</li>
   <li>Searching</li>
 </ul>
-
+<h4>Design Patterns</h4>
 <ul>
-   <li>Design Patterns
+   <li>Creational Drsign Pattern
     <ul>
       <li>Singleton Design Pattern</li>
       <li>Factory Design Pattern</li>
