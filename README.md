@@ -13,6 +13,7 @@ This is my roadmap for learning C# from scratch ┗|｀O′|┛
 <h4>Data Structure in C#</h4>
 <ul>
   <li>Singly Linked List (SLL)</li>
+  <li>Doubly Linked List (SLL)</li>
 </ul>
 <h4>Algorithms</h4>
 <ul>
