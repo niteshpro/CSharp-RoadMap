@@ -29,4 +29,5 @@ This is my roadmap for learning C# from scratch ┗|｀O′|┛
       <li>Abstract Factory Pattern</li>
     </ul>
   </li>  
+  <li>Structural Design Patterns</li>
 </ul>
